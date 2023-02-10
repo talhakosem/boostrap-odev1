@@ -1,1 +1,1 @@
-taika.dev/talhaca
+patika.dev/talhaca
